@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hola Mohalla Suvidha</string>
+    <string name="location_rationale">ਸਥਾਨ ਦੀ ਅਨੁਮਤੀ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigate">ਨੇਵੀਗੇਟ ਕਰੋ</string>
+    <string name="dismiss">ਬਰਖਾਸਤ ਕਰੋ</string>
+    <string name="location">ਸਥਾਨ</string>
+    <string name="choose">ਚੁਣੋ</string>
+    <string name="title">ਭਾਸ਼ਾ</string>
+    <string name="english">English</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="estimatetime">ਅੰਦਾਜ਼ਾ ਟਾਈਮ:</string>
+    <string name="totalsteps">ਕੁੱਲ ਕਦਮ:</string>
+    <string name="currentlocation">ਮੌਜੂਦਾ ਸਥਿਤੀ</string>
+    <string name="yourlocation">ਤੁਹਾਡਾ ਸਥਾਨ</string>
+    <string name="thisisyourloc">ਇਹ ਤੁਹਾਡਾ ਟਿਕਾਣਾ ਹੈ</string>
+    <string name="pleasewait">ਕ੍ਰਿਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ</string>
+
+
+    <string name="emergencycontact">ਐਮਰਜੈਂਸੀ ਸੰਪਰਕ</string>
+    <string name="policecontrolroom">ਪੁਲਿਸ ਕੰਟਰੋਲ ਰੂਮ</string>
+
+    <string-array name="select">
+        <item>@string/english</item>
+        <item>@string/punjabi</item>
+    </string-array>
+
+
+
+</resources>

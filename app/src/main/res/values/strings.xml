@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hola Mohalla Suvidha</string>
+    <string name="location_rationale">Location Permission</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigate">Navigate</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="location">Location</string>
+    <string name="choose">choose</string>
+    <string name="title">Language</string>
+    <string name="english">English</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="estimatetime">Estimate Time :</string>
+    <string name="totalsteps">Total Steps :</string>
+    <string name="currentlocation">Current Location</string>
+    <string name="yourlocation">Your Location</string>
+    <string name="thisisyourloc">This is Your Location</string>
+    <string name="pleasewait">Please Wait</string>
+
+    <string name="emergencycontact">Emergency Contact</string>
+    <string name="policecontrolroom">Police Control Room</string>
+    <string name="num"><u>01887230300</u></string>
+
+
+    <string-array name="select">
+        <item>@string/english</item>
+        <item>@string/punjabi</item>
+    </string-array>
+
+
+</resources>

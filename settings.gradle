@@ -1,0 +1,1 @@
+include ':app', ':bridge-5.1.2'
